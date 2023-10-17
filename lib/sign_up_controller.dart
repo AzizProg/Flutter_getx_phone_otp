@@ -20,6 +20,5 @@ class SignUpController extends GetxController{
     };
     print(user);
     db.collection("register_with_number").doc(id).set(user);
-    //db.collection("ux/ui").add(user).then((DocumentReference doc) => print('DocumentSnapshot added with ID: ${doc.id}'));
 }
 }
