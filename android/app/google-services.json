@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "677977339221",
+    "firebase_url": "https://madisauth-default-rtdb.firebaseio.com",
+    "project_id": "madisauth",
+    "storage_bucket": "madisauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677977339221:android:97a1270d4ba62e64a26bdc",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677977339221-u4rk1ri4pjhtl1ojqbvmh448alrcu6rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.otp",
+            "certificate_hash": "6226f520c0bfded93be57971e4fd49ca0e7af729"
+          }
+        },
+        {
+          "client_id": "677977339221-f3bp0npmrgksm82f9uth09thpko7kmcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiJqKmQXr4p2b0jaa7UWtxSCo2peYosdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677977339221-f3bp0npmrgksm82f9uth09thpko7kmcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "677977339221-7m8sst1s07hoebiev3v9n815nnkua0nu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.otpTest.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
